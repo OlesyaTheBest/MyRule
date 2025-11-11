@@ -33,7 +33,7 @@ I believe that writing should be **concise** and written in an **active voice**.
 Every detail must be **accurate, version-aware, and testable**.
 ## Visuals & Formatting
 
-Use **code blocks, tables, UI screenshots, and diagrams** to illustrate complex flows. Visual cues—like callouts or syntax highlighting—help users scan and learn faster.
+It is necessary to use **code blocks, tables, UI screenshots, and diagrams** to illustrate complex flows. Visual cues, like callouts or syntax highlighting, help users scan and learn faster.
 
 ## Tooling & Maintenance
 
