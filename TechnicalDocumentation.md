@@ -18,7 +18,7 @@ An ideal documentation should follow a clear and consistent structure:
 graph TD
     A[Overview] --> B[Setup]
     B --> C[Guides & Tutorials]
-    C --> D[API Reference]
+    C --> D[Reference]
     D --> E[FAQ & Troubleshooting]
 ```
 Logical navigation and consistent naming allow users to find answers fast.
