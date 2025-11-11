@@ -1,4 +1,4 @@
-# My View of Ideal Technical Documentation
+# My View of Ideal Good Documentation
 
 I believe that technical documentation is an essential part of any product. Even when a product has an intuitive interface, there always comes a moment when the user thinks: *“Okay, but where’s the manual?”*  
 Ideal technical documentation should enhance the overall user experience by helping people understand how to use the product and guiding them through confusing or complex situations. Documentation must be clear, structured, and concise - only the information that truly matters. Wherever possible, it should be supported by visuals such as screenshots, diagrams, or tables, and key points should stand out through typography or color-coded callouts.  
