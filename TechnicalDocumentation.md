@@ -20,7 +20,6 @@ graph TD
     B --> C[Guides & Tutorials]
     C --> D[API Reference]
     D --> E[FAQ & Troubleshooting]
-    E --> F[Contribute & Maintain]
 ```
 Logical navigation and consistent naming allow users to find answers fast.
 
