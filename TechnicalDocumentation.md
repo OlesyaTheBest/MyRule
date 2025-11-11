@@ -40,6 +40,5 @@ It is necessary to use **code blocks, tables, UI screenshots, and diagrams** to 
 Maintain docs as code:  
 - **Markdown** for portability and Git-based workflows  
 - **CI checks** for broken links and formatting  
-- **Versioning** aligned with releases to prevent drift  
 
 ---
