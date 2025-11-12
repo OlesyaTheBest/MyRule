@@ -1,6 +1,6 @@
 # My View on Good Documentation
 
-My personal view is that documentation is an integral part of any product. Even when a product has an intuitive interface, there always comes a moment when the user thinks, *"Well, I think it's time to open the manual."*.
+My personal view is that documentation is an integral part of any product. Even when a product has an intuitive interface, there always comes a moment when the user thinks, *"Well, I think it's time to open the manual."*
 
 For me, good technical documentation should enhance the overall user experience and help people feel confident while working with the product. Documentation is there to help users understand how to use the product and guide them through confusing or complex situations. It must be clear, structured, and concise - only the information that truly matters. Whenever possible, I like to add visuals such as screenshots, diagrams, and tables. Also, it's vital to highlight key steps so they're easy to spot.
 
