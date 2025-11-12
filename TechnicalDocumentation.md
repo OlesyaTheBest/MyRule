@@ -26,11 +26,11 @@ This structure works because logical navigation and consistent naming allow user
 
 ## Style and Tone
 
-I prefer to write in plain language using the active voice and second person. It's essential to use consistent terminology and keep sentences short to make them easier to understand. The tone should be friendly but professional.
+I prefer to write in plain language, using the active voice and the second person. It's essential to use consistent terminology and keep sentences short to make them easier to understand. The tone should be friendly, but professional.
 
 ## Content Quality
 
-Good documentation is very important. If the examples and screenshots are outdated, or if the code is broken, users won't trust the product. Any changes to the product must be reflected in relevant documentation.
+Good documentation is very important. If the examples and screenshots are outdated or if the code is broken, users won't trust the product. Any changes to the product must be reflected in relevant documentation.
 
 ## Visuals and Formatting
 
