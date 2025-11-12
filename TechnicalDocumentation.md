@@ -1,50 +1,51 @@
-# My View of Ideal Good Documentation
+# My View on Good Documentation
 
-I believe that technical documentation is an essential part of any product. Even when a product has an intuitive interface, there always comes a moment when the user thinks: *“Okay, where’s the manual?”*.
+My personal view is that documentation is an integral part of any product. Even when a product has an intuitive interface, there always comes a moment when the user thinks, *"Well, I think it's time to open the manual."*.
 
-Ideal technical documentation should enhance the overall user experience by helping people understand how to use the product and guiding them through confusing or complex situations. Documentation must be clear, structured, and concise - only the information that truly matters. Wherever possible, it should be supported by visuals such as screenshots, diagrams, or tables, and key points should stand out through typography or color-coded callouts.  
+For me, good technical documentation should enhance the overall user experience and help people feel confident while working with the product. Documentation is there to help users understand how to use the product and guide them through confusing or complex situations. It must be clear, structured, and concise - only the information that truly matters. Whenever possible, I like to add visuals such as screenshots, diagrams, and tables. Also, it's vital to highlight key steps so they’re easy to spot.
 
-In my work, I’ve often studied documentation from companies like **[Microsoft](https://learn.microsoft.com/en-us/docs/)**, **Apple**, **GitHub**, and **[Notion](https://www.notion.com/)**. I wanted to see how large, mature organizations approach structure and clarity, and to adopt their best practices to improve the quality of my own documentation.
+In my work, I’ve often studied documentation from companies like **[Microsoft](https://learn.microsoft.com/en-us/docs/)**, **Apple**, **GitHub**, and **[Notion](https://www.notion.com/)**. Each has its own style: Microsoft is structured and formal, Notion is conversational and friendly, GitHub is practical. I take the good parts from all of them and use them in my writing.
 
 ## Structure
 
-An ideal documentation should follow a clear and consistent structure:
-1. **Overview** – purpose, audience, and core concepts  
-2. **Setup** – installation and configuration
-3. **Guides & Tutorials** – practical, scenario-based learning  
-4. **Reference** – APIs, commands or parameters
-5. **FAQ & Troubleshooting** – real-world solutions to common problems  
+I usually follow this structure:
+1. **Overview** - what the product does and who it's for
+2. **Setup** - installation, configuration, and first run
+3. **Guides and Tutorials** - practical, scenario-based examples  
+4. **Reference** - APIs, commands or parameters
+5. **FAQ and Troubleshooting** - common mistakes and how to fix them
 
 ```mermaid
 graph TD
     A[Overview] --> B[Setup]
-    B --> C[Guides & Tutorials]
+    B --> C[Guides and Tutorials]
     C --> D[Reference]
-    D --> E[FAQ & Troubleshooting]
+    D --> E[FAQ and Troubleshooting]
 ```
-Logical navigation and consistent naming allow users to find answers fast.
+This structure works because logical navigation and consistent naming allow users to find answers quickly.
 
-## Style & Tone
+## Style and Tone
 
-I believe that writing should be **concise** and use the **active voice**. Each sentence should clearly convey the writer's intent, context, or action. It's important to use consistent terminology, a second-person ("you") perspective, and short sentences to reduce cognitive load. The tone should be professional and approachable, with a focus on the developer experience, rather than marketing.
+I prefer to write in plain language using the active voice and second person. It's essential to use consistent terminology and keep sentences short to make them easier to understand. The tone should be friendly but professional.
 
 ## Content Quality
 
-Every detail must be **accurate, version-aware, and testable**.
-Broken examples or outdated references quickly erode trust, so documentation must evolve alongside the product.
+Good documentation is very important. If the examples and screenshots are outdated, or if the code is broken, users won't trust the product. Any changes to the product must be reflected in relevant documentation.
 
-## Visuals & Formatting
+## Visuals and Formatting
 
-It is necessary to use **code blocks, tables, UI screenshots, and diagrams** to illustrate complex flows. Callouts and highlights to emphasize critical steps:
+In my opinion, it's necessary to use code blocks, tables, UI screenshots, and diagrams to illustrate complex processes. I also prefer using callouts and highlights to emphasize critical steps. For example:
 
-- ⚙️ **Note:** Optional configurations or advanced tips  
-- ⚠️ **Warning:** Potential issues or limitations  
-- ✅ **Example:** Real, working use cases
+- ⚙️ **Note:** optional settings or advanced tips  
+- ⚠️ **Warning:** what can go wrong and how to avoid it 
+- ✅ **Example:** real, working use cases
 
-## Tooling & Maintenance
+## Tooling and Maintenance
 
 Maintain docs as code:  
 - **Markdown** for portability and Git-based workflows  
-- **CI checks** for broken links and formatting  
+- **CI checks** for broken links and formatting
+
+**All in all, good documentation should guide, reassure and save people's time.**
 
 ---
