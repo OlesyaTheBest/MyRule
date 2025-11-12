@@ -2,9 +2,9 @@
 
 My personal view is that documentation is an integral part of any product. Even when a product has an intuitive interface, there always comes a moment when the user thinks, *"Well, I think it's time to open the manual."*
 
-For me, good technical documentation should enhance the overall user experience and help people feel confident while working with the product. Documentation is there to help users understand how to use the product and guide them through confusing or complex situations. It must be clear, structured, and concise - only the information that truly matters. Whenever possible, I like to add visuals such as screenshots, diagrams, and tables. Also, it's vital to highlight key steps so they're easy to spot.
+For me, good technical documentation should enhance the overall user experience and help people feel confident while working with the product. Documentation is there to help users understand how to use the product and guide them through confusing or complex situations. It must be clear, structured, and concise - only information that truly matters. Whenever possible, I like to add visuals such as screenshots, diagrams or tables and highlight key steps to make them stand out.
 
-In my work, I've often studied documentation from companies like **[Microsoft](https://learn.microsoft.com/en-us/docs/)**, **Apple**, **GitHub**, and **[Notion](https://www.notion.com/)**. Each has its own style: Microsoft is structured and formal, Notion is conversational and friendly, GitHub is practical. I take the good parts from all of them and use them in my writing.
+In my work, I've often studied documentation from companies like **[Microsoft](https://learn.microsoft.com/en-us/docs/)**, **Apple**, **GitHub**, and **[Notion](https://www.notion.com/)**. Each has its own style: Microsoft is formal, Notion is more conversational, GitHub is practical. I try my best to take the good parts from all of them and use them in my writing.
 
 ## Structure
 
@@ -30,11 +30,11 @@ I prefer to write in plain language, using the active voice and the second perso
 
 ## Content Quality
 
-Good documentation is very important. If the examples and screenshots are outdated or if the code is broken, users won't trust the product. Any changes to the product must be reflected in relevant documentation.
+Content quality is of high importance. If the examples and screenshots are outdated or if the code is broken, users won't trust the product. Any changes to the product must be reflected in relevant documentation.
 
 ## Visuals and Formatting
 
-In my opinion, it's necessary to use code blocks, tables, UI screenshots, and diagrams to illustrate complex processes. I also prefer using callouts and highlights to emphasize critical steps. For example:
+In my opinion, it's necessary to use code blocks, tables, UI screenshots, and diagrams to illustrate complex processes. Also, callouts and highlights can help emphasize critical steps. For example:
 
 - ⚙️ Note: optional settings or advanced tips  
 - ⚠️ Warning: what can go wrong and how to avoid it 
